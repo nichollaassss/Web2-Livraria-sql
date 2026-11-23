@@ -1,0 +1,14 @@
+{
+  "name": "livraria-entrelinhas",
+  "version": "1.0.0",
+  "description": "Página Web de Livraria integrada com banco de dados MySQL",
+  "type": "module",
+  "main": "./server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.11.5"
+  }
+}
